@@ -183,6 +183,9 @@ input::placeholder {
     margin-right: 10px;
     font-size: 26px;
 }
+.github a {
+    color: var(--textColor);
+}
 .github:hover {
     opacity: 0.7;
 }

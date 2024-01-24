@@ -43,7 +43,9 @@ const ThemeTogge = () => {
                 </div>
                 <div>
                     <button className="github">
-                        <BsGithub />
+                        <a href="https://github.com/Bechirmahamat/bech-gallery">
+                            <BsGithub />
+                        </a>
                     </button>
 
                     {isDarkMode ? (
