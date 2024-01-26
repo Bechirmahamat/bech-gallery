@@ -58,6 +58,7 @@ nav {
     display: flex;
     justify-content: space-between;
     width: var(--width);
+    max-width:var(max-width);
     margin: auto;
     padding: 10px 0;
     margin-bottom: 10px;
